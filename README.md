@@ -1,5 +1,7 @@
 # 🛡️ Ethical Hacking Bootcamp Certificate - WsCube Tech
 
+🏢 Issued by: WsCube Tech  
+
 I have successfully completed the Ethical Hacking Bootcamp from WsCube Tech 🎉  
 
 ## 📜 Certificate
